@@ -1,0 +1,34 @@
+---
+title: "Codebuch_Frauen"
+author: "Ben"
+date: "2025-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Codebuch Resistance
+
+**Edgelist**:
+from: Name Widerstandskämpferin
+to: Name Widerstandskämpferin
+relation: Art der Zusammenarbeit:
+0 = keine Verbindung
+1 = Zusammenarbeit interstrukturell
+2 = Mitgliedschaft gleicher Struktur
+
+**Nodelist**:
+id:
+name: Name Widerstandskämpferin
+death: Todesjahr
+region: Aktiv in ... Region:
+1 = Paris
+2 = Lyon
+3 = Beligen
+4 = Toulousse
+5 = Marsaille
+organization: Widerstandsstruktur
+role: Rolle in Struktur
+birth: Geburtsjahr
