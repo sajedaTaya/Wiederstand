@@ -1,0 +1,45 @@
+from,to,relation_code,relation,from_name,to_name
+la12,gga20,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),Aubrac,GaulleAnthonioz
+la12,ba93,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),Aubrac,Albrecht
+gga20,ba93,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),GaulleAnthonioz,Albrecht
+dc09,cc15,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),Casanova,Chomat
+la12,mmf89,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Aubrac,Fourcade
+la12,gt07,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Aubrac,Tillion
+la12,dc09,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Aubrac,Casanova
+mcvc12,dc09,1,Gleiche Organisation/Gruppe,VaillantCouturier,Casanova
+la12,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Aubrac,Spaak
+la12,mcvc12,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Aubrac,VaillantCouturier
+cc15,mcvc12,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),Chomat,VaillantCouturier
+gga20,gt07,1,Gleiche Organisation/Gruppe,GaulleAnthonioz,Tillion
+gga20,dc09,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,Casanova
+gga20,mmf89,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,Fourcade
+gga20,mcvc12,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,VaillantCouturier
+gga20,ba93,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,Albrecht
+gga20,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,Spaak
+gga20,fbs13,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,BlochSerazin
+gga20,cc15,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),GaulleAnthonioz,Chomat
+gt07,dc09,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,Casanova
+gt07,mmf89,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,Fourcade
+gt07,mcvc12,1,Gleiche Organisation/Gruppe,Tillion,VaillantCouturier
+gt07,ba93,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,Albrecht
+gt07,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,Spaak
+gt07,fbs13,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,BlochSerazin
+gt07,cc15,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Tillion,Chomat
+mmf89,dc09,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,Casanova
+mmf89,mcvc12,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,VaillantCouturier
+mmf89,ba93,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,Albrecht
+mmf89,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,Spaak
+mmf89,fbs13,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,BlochSerazin
+mmf89,cc15,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Fourcade,Chomat
+dc09,ba93,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Casanova,Albrecht
+dc09,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Casanova,Spaak
+dc09,fbs13,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),Casanova,BlochSerazin
+mcvc12,ba93,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),VaillantCouturier,Albrecht
+mcvc12,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),VaillantCouturier,Spaak
+mcvc12,fbs13,1,Gleiche Organisation/Gruppe,VaillantCouturier,BlochSerazin
+ba93,ss05,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Albrecht,Spaak
+ba93,fbs13,1,Gleiche Organisation/Gruppe,Albrecht,BlochSerazin
+ba93,cc15,1,Gleiche Organisation/Gruppe,Albrecht,Chomat
+ss05,fbs13,0,Direkte Zusammenarbeit (gemeinsame Aktion/Operation),Spaak,BlochSerazin
+ss05,cc15,1,Gleiche Organisation/Gruppe,Spaak,Chomat
+fbs13,cc15,2,Netzwerk-/Vermittlungskontakt (Information/Logistik),BlochSerazin,Chomat
