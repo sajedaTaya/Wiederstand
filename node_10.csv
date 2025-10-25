@@ -1,0 +1,237 @@
+id,name,type,birth,death,region,nationality,death_cause,death_place,role,activity,arrested,kz,fled,rescued,gender
+la12,Lucie Aubrac,1,1912,2007,Lyon,french,natural,Paris,founder,refugee,2,2,,,1
+mmf09,Marie-Madeleine Fourcade,1,1909,1989,Paris,french,natural,Paris,leader,messenger,2,2,,,1
+gt07,Germaine Tillion,1,1907,2008,Paris,french,natural,Saintmande,member,refugee,1,1,,1,1
+gga20,Genevieve de Gaulle-Anthonoiz,1,1920,2002,Paris,french,natural,Paris,member,,1,1,,1,1
+dc09,Danielle Casanova,1,1909,1943,Paris,french,illness,Auschwitz,member,armed,1,2,,1,1
+mcvc12,Marie-Claude Vailliant-Coutrier,1,1912,1996,Paris,french,,Villejuif,member,armed,1,1,,1,1
+ba93,Berty Albrecht,1,1893,1943,Lyon,french,suicide,Paris,founder,refugee,1,1,,,1
+ss05,Suzanne Spaak,1,1905,1944,Paris,belgian,executed,Paris,leader,refugee,1,2,,,1
+fbs13,France Bloch-Serazin,1,1913,1943,Paris,french,executed,Hamburg,member,armed,1,2,,,1
+cc15,Claudine Chomat,1,1915,1945,Paris,french,,BoulogneBillancourt,leader,,2,2,,,1
+ad22,Andrée Dumon,1,1922,2025,Brussels,belgian,natural,Nivelles,member,refugee,1,1,,1,1
+md21,Micheline Dumon,1,1921,2017,Brussels,belgian,natural,SaintSiffret,member,refugee,1,,,,
+et76,Émilie Tillion,1,1876,1945,Talizat,french,executed,Ravensbrück,member,refugee,1,1,,,1
+ep17,Eliane Plewman,1,1917,1944,Lille,british,executed,Dachau,member,spionage,1,1,,,
+md17,Madeleine Damerment,1,1917,1944,Lille,french,executed,Dachau,member,spionage,1,1,,,
+yb11,Yolande Beekman,1,1911,1944,Saint-Quentin,british,executed,Dachau,member,spionage,1,,,,
+mma26,Michele Moet Agniel,1,1926,alive,Paris,french,,,member,messenger,1,1,,,
+jb06,Josephine Baker,1,1906,1975,Dordogne,french,illness,Paris,member,spionage,,1,,,1
+ab23,Anne Beaumanoir,1,1923,2022,Bretagne,french,natural,Bretagne,member,refugee,,,,1,1
+ob12,Olga Bancic,1,1912,1943,Paris,jewishromanian,executed,Stuttgart,member,armed,1,,,,1
+mbv21,Mélanie Berger-Volle,1,1921,alive,Paris,austrianfrench,,,member,messenger,1,,,,1
+rcg17,Rachel Cheigam Grundstein,1,1917,2018,Nice,jewishlithuanian,,Garches,member,refugee,1,,,,1
+mcl23,Marie Josee Chombat de Lauwe,,1923,alive,Bretagne,french,,,member,messenger,1,,1,1,1
+mc22,Marianne Cohn,1,1922,1944,Haute-Savoie,jewish,executed,Villelagrand,member,refugee,1,1,,,1
+yc09,Yvonne Cormenau,1,1909,1997,Gascone,british,natural,Fleet,member,spionage,,,,1,1
+cd13,Charlotte Delbo,1,1913,1985,Paris,french,illness,Paris,member,messenger,1,,,,1
+rd24,Rose Deroubaix,1,1924,,,,,,member,,,1,,,1
+rc23,Regine Chatelain,1,1923,,,,,,member,,,,,1,1
+fc23,Fernande Carlier,1,1923,,,,,,member,,,,,,1
+fb26,Fernande Brouwez,1,1926,2021,,,,,member,,,,,,1
+mbh26,Marguérite Bouillon-Housiau,1,1926,2020,,,,,member,,,,,,1
+cc26,Chatenay-Crémer,1,1926,2014,,,,,member,,,,,,1
+sz22,Suzanne Citron,1,1922,2018,,,,,member,,,,,,1
+mdc24,Marie Dorothée de Croy,1,1924,2005,,,,,member,,,,,,1
+md91,Marie Déletraz,1,1891,,,,,,member,,,,,,1
+hsl09,Hélène Solomon-Langevin,1,1909,1995,,french,natural,Sens,,messenger,1,,,,1
+es24,Évelyne Sullerot,1,1924,2017,Nimes,french,illness,,member,,1,,,,
+is20,Irma Schwager,1,1920,2015,,austrian,natural,Vienna,member,,2,2,2,,1
+ds13,Dora Schaul,1,1913,1999,Lyon,german,natural,Berlin,member,spionage,1,1,1,2,1
+mls14,Marie-Louise Streisguth,1,1914,2005,,french,,,,,,1,1,2,1
+et96,Elsa Triolet,1,1896,1970,Nice,french,natural,Moskau,member,messenger,1,1,2,2,1
+rv98,Rose Valland,1,1898,1980,Paris,french,natural,Ris-orangis,,messenger,2,2,2,1,1
+hv17,Hélène Viannay,1,1917,2006,,french,natural,Paris,member,press,2,2,2,2,1
+jv24,Jeanne Vandercoilden,1,1924,2007,,belgian,,,,,,2,2,2,1
+nw12,Nancy Wake,1,1912,2011,,new zealander,,,,,,,,2,1
+ew18,Emmy Weisheimer,1,1918,,,french,,,,,,,,,1
+nw24,Nelly Willer,1,1924,,Nice,,,,,,,,,,1
+iw10,Irene Wosikowski,1,1910,1944,Marseille,german,,,,,,,,,1
+hb21,Hélène Berr,1,1921,1945,Paris,french,executed,Bergen-Belsen,member,,1,1,1,,1
+et09,Edith Thomas,1,1909,1970,,french,,Paris,member,press,,1,,2,1
+mt01,"Magda Trocmé",1,1901,1996,Le Chambon-sur-Lignon,italian,natural,Poissy,member,refugee,,,,,
+mm21,Marie Médard,1,1921,2013,Paris,french,,,member,messenger,1,,,,
+ni14,Noor Inayat Khan,1,1914,1944,Paris,british,executed,Dachau,member,spionage,1,1,,,
+hk13,Hélène Kro ,1,1913,1942,Paris,polish,suicide,Paris,member,armed,1,1,,1,1
+rl06,Renée Lévy,1,1906,1943,Paris,,executed,Cologne,member,press,1,,,,1
+ll16,Lise London,1,1916,2012,Paris,,natural,Paris,member,press,1,1,,,1
+sm01,Suzanne Masson,1,1901,1943,Paris,french,executed,Hamburg,member,armed,1,1,,,1
+am22,Andrée Monier-Blachère,1,1922,,Lyon,french,,,member,press,,1,,1,1
+pn19,Paulette Neu ,1,1919,,Toulouse,french,,,member,humanitarian,,,,,1
+rn23,Renée Nourry-Souliman,1,1923,2013,Toulouse,french,natural,,member,courier,,,,,1
+sp17,Simone Perl (Lévy),1,1917,2004,Lyon,french,natural,,member,press,,,,,1
+mr24,Madeleine Riffaud,1,1924,,Paris,french,survived,,member,armed,1,,,,1
+ér90,Élise Rivet,1,1890,1945,Lyon,french,executed,Ravensbrück,member,humanitarian,1,,,,1
+cr19,Charline Roy Haag,1,1919,2013,Lomont,french,,,member,armed,,1,,1,1
+lr14,Lilian Rolfe,1,1914,1945,Paris,french,executed,Ravensbrück,member,spionage,1,,,,1
+js24,Jacqueline Sabatier,1,1924,,Drome,british,,,,,,1,,,1
+es24,Evelyne Sullerot,1,1924,2017,Paris,french,natural,Paris,founder,press,,,,,1
+is20,Irma Schwager,1,1920,2015,Lyon,french,natural,Vienna,member,humanitarian,1,,,,1
+ss05,Suzanne Spaak,1,1905,1944,Paris,austrian,executed,Paris,member,humanitarian,1,,1,,1
+gt07,Germaine Tillion,1,1907,2008,Paris,belgian,natural,Saint-Mandé,member,spionage,1,,,,1
+rl00,Rega Levine,1,,,Paris,french,,,member,,,1,,,1
+md80,Marie Louise Dissard,1,1880,1957,Toulouse,french,natural,Toulouse,member,refugee,,,,1,1
+ed08,Emmy Dörfel,1,1908,2002,Paris,german,natural,,member,,1,,,,1
+md09,Madeleine Dreyfus,1,1909,1987,Lyon,french,natural,Paris,member,humanitarian,1,1,1,,1
+md14,Marguerite Duras,1,1914,1996,Paris,french,natural,Saigon,member,culture,2,1,2,2,1
+gf01,Gabrielle Ferrières,1,1901,2001,Paris,french,natural,Paris,member,refugee,1,2,2,1,1
+mf21,Marie Fillet Médard,1,1921,2013,Paris,french,natural,Tours,member,messenger,1,2,2,2,1
+jf25,Jacqueline Fleury,1,1925,2006,Versailles,french,natural,,member,press,1,1,2,2,1
+lf24,Liliane Frisch,1,1924,,,german,,,member,refugee,,1,1,1,1
+sg21,Sarah Goldberg,1,1921,2003,Toulouse,belgian,natural,,member,spionage,1,,,2,1
+pd22,Paulette Guthwirth Dreyfus,1,1922,,Lyon,french,,,member,,,1,2,,1
+mh05,Marie Hackin,1,1905,1941,International,french,accident,Färöer,member,armed,2,,,1,1
+ah06,Adelaide Hautval,1,1906,1988,Auschwitz,french,suicide,Groslay,independent,humanitarian,1,2,2,,1
+ah94,Agnès Humbert,1,1894,1963,Paris,french,,Valmondoise,member,press,1,1,2,2,1
+hi13,Hélène Igla,1,1913,1943,Paris,french,,,member,armed,1,2,2,1,1
+aj16,Andrée de Jongh,1,1916,2007,Brussels,belgian,natural,Brussels,founder,refugee,1,,,1,1
+dh20,Doris Kahane,1,1920,1976,Cassis,german,,Berlin,member,press,1,1,,,1
+hk21,Hanna Kamieniecki,1,1924,2020,Paris,polish,natural,Paris,member,armed,,1,2,,1
+com,Combat,2,,,,,,,,,,,,,
+pcf,Partie Communiste,2,,,,,,,,,,,,,
+mlh,Musée l'Homme,2,,,,,,,,,,,,,
+libnord,Liberation-Nord,2,,,,,,,,,,,,,
+fro,Front National,2,,,,,,,,,,,,,
+rot,Rote Kapelle,2,,,,,,,,,,,,,
+ftp,Franc-Tireurs et Partisans ,2,,,,,,,,,,,,,
+pa,Partisans armes,2,,,,,,,,,,,,,
+mp,Milices Patriotiques,2,,,,,,,,,,,,,
+eif,Eclaireurs Israelites de France,2,,,,,,,,,,,,,
+sixieme,Sixieme (Zeitung),2,,,,,,,,,,,,,
+humanite,L'Humanite,2,,,,,,,,,,,,,
+ojc,Organisation juive de combat,2,,,,,,,,,,,,,
+sra,Solidarite Ravaillac,2,,,,,,,,,,,,,
+cfr,Comites feminins de resistance,2,,,,,,,,,,,,,
+scoutisme,Groupe du scoutisme feminin,2,,,,,,,,,,,,,
+kpd,Kommunistische Partei Deutschlands,2,,,,,,,,,,,,,
+mz,Mouvement Zioniste,2,,,,,,,,,,,,,
+ftpmoi,Franc-Tireurs et Partisans - Main-d’Œuvre Immigrée ,2,,,,,,,,,,,,,
+calpo,Compagnos de l'armee de la Liberation des Patriotes d'origine etrangere,2,,,,,,,,,,,,,
+fujp,Forces unies de la Jeunesse Patriotique,2,,,,,,,,,,,,,
+groupeg,Groupe G,2,,,,,,,,,,,,,
+alliance,Alliance,2,,,,,,,,,,,,,
+ose,Oeuvres de Secours aux Enfants,2,,,,,,,,,,,,,
+fl,France libre,2,,,,,,,,,,,,,
+ffl,Forces Francaises Libres,2,,,,,,,,,,,,,
+mu,Mouvement uni de Resistance,2,,,,,,,,,,,,,
+mlnnord,Mouvement de Liberation Nationale-Nord ,2,,,,,,,,,,,,,
+defense,Defense de la France,2,,,,,,,,,,,,,
+mn,Musee National des Arts et Traditions Populaires,2,,,,,,,,,,,,,
+pc,Palais de Chaillot,2,,,,,,,,,,,,,
+ft,Franc-Tireur,2,,,,,,,,,,,,,
+fliberte,France-Liberte,2,,,,,,,,,,,,,
+tc,Temoignage chretien,2,,,,,,,,,,,,,
+rg,Reseau Georges 31,2,,,,,,,,,,,,,
+soe,Special Operations Executive,2,,,,,,,,,,,,,
+sr,SR Kleber,2,,,,,,,,,,,,,
+rm,Reseau Marco,2,,,,,,,,,,,,,
+rj,Reseau Jonque,2,,,,,,,,,,,,,
+rc,Reseau Cohors,2,,,,,,,,,,,,,
+raa,Reseau Anti-Axte,2,,,,,,,,,,,,,
+rb,Reseau Bourgogne,2,,,,,,,,,,,,,
+comete,Reseau Comete,2,,,,,,,,,,,,,
+gjc,Groupe Jaques Messner,2,,,,,,,,,,,,,
+rmi,Reseau Mithridate,2,,,,,,,,,,,,,
+cv,Reseau Charles Verni,2,,,,,,,,,,,,,
+rp,Reseau Pericles,2,,,,,,,,,,,,,
+mj,Maquis Juif de la Montagne Noire,2,,,,,,,,,,,,,
+ml,Maquis du Lomont,2,,,,,,,,,,,,,
+ms,Maquis en Sologne,2,,,,,,,,,,,,,
+mr,Maquis en Ronquerolles,2,,,,,,,,,,,,,
+mm,Maquis du Morvan,2,,,,,,,,,,,,,
+mg,Maquis de Glieres,2,,,,,,,,,,,,,
+mv,Maquis du Vercors,2,,,,,,,,,,,,,
+mb,Maquis de Bretagne,2,,,,,,,,,,,,,
+mlim,Maquis du Limousin,2,,,,,,,,,,,,,
+mtg,Maquis du Tarn et Garonne,2,,,,,,,,,,,,,
+mc,Maquis de Correze,2,,,,,,,,,,,,,
+libsud,Liberation-Sued,2,,,,,,,,,,,,,
+ocmj,Military and Civilian Organization of Young People,2,,,,,,,,,,,,,
+ta,Travail allemande,2,,,,,,,,,,,,,
+frl,Francoise Lignes,2,,,,,,,,,,,,,
+cdl,Cercle de la Librairie,2,,,,,,,,,,,,,
+ugif,Union générale des israélites de France,2,,,,,,,,,,,,,
+fdb,Freie Deutsche Bewegung,2,,,,,,,,,,,,,
+db,Deuxieme Bureau,2,,,,,,,,,,,,,
+mjs,Mouvement de Jeunesse Sioniste,2,,,,,,,,,,,,,
+gp,Groupe Politzer,2,,,,,,,,,,,,,
+mitn,Mithridate-Netzwerk,2,,,,,,,,,,,,,
+gpu,sowjetische Geheimpolizei,2,,,,,,,,,,,,,
+ll,Les Lettres,2,,,,,,,,,,,,,
+cdra,Commission de récupération artistique,2,,,,,,,,,,,,,
+rpol,Réseau Pat O’Leary,2,,,,,,,,,,,,,
+scoutisme,Groupe du scoutisme feminin,2,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Violette Szabo,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+gb04,Gustave Bieler,1,1904,1944,,canadian,executed,bavaria,,,1,1,,,2
+,,,,,,,,,,,,,,,
+gs15,Georg Scheuer,1,1915,1996,,austrian,natural,,founder,,,,,,2
+jh16,Josef Hindels,1,1916,1990,,austrian,illness,vienna,founder,,,,,,2
+kf18,Karl Fischer,1,1918,1963,,austrian,,,founder,,,,,,2
+ef14,Ernst Federn,1,1914,2007,,austrian,,,founder,,,1,,1,2
+,,,,,,,,,,,,,,,
+id19,Ignaz Duhl,1,1919,1943,,austrian,executed,marseille,member,,1,,,,2
+gg16,Gustav Gronich,1,1916,2003,,austrian,,vienna,member,,,,,,2
+li,Lotte Israel,1,,,,,,,member,,,,,,1
+,,,,,,,,,,,,,,,
+gs04,George Starr,1,1904,1980,,british,,senlis,leader,,,,,,2
