@@ -21,7 +21,7 @@ ab23,Anne Beaumanoir,1,1923,2022,Bretagne,french,natural,Bretagne,member,refugee
 ob12,Olga Bancic,1,1912,1943,Paris,jewishromanian,executed,Stuttgart,member,armed,1,,,,1
 mbv21,Mélanie Berger-Volle,1,1921,alive,Paris,austrianfrench,,,member,messenger,1,,,,1
 rcg17,Rachel Cheigam Grundstein,1,1917,2018,Nice,jewishlithuanian,,Garches,member,refugee,1,,,,1
-mcl23,Marie Josee Chombat de Lauwe,,1923,alive,Bretagne,french,,,member,messenger,1,,1,1,1
+mcl23,Marie Josee Chombat de Lauwe,1,1923,alive,Bretagne,french,,,member,messenger,1,,1,1,1
 mc22,Marianne Cohn,1,1922,1944,Haute-Savoie,jewish,executed,Villelagrand,member,refugee,1,1,,,1
 yc09,Yvonne Cormenau,1,1909,1997,Gascone,british,natural,Fleet,member,spionage,,,,1,1
 cd13,Charlotte Delbo,1,1913,1985,Paris,french,illness,Paris,member,messenger,1,,,,1
@@ -49,7 +49,8 @@ nw24,Nelly Willer,1,1924,,Nice,,,,,,,,,,1
 iw10,Irene Wosikowski,1,1910,1944,Marseille,german,,,,,,,,,1
 hb21,Hélène Berr,1,1921,1945,Paris,french,executed,Bergen-Belsen,member,,1,1,1,,1
 et09,Edith Thomas,1,1909,1970,,french,,Paris,member,press,,1,,2,1
-mt01,"Magda Trocmé",1,1901,1996,Le Chambon-sur-Lignon,italian,natural,Poissy,member,refugee,,,,,
+mt01,"Magda Trocmé
+",1,1901,1996,Le Chambon-sur-Lignon,italian,natural,Poissy,member,refugee,,,,,
 mm21,Marie Médard,1,1921,2013,Paris,french,,,member,messenger,1,,,,
 ni14,Noor Inayat Khan,1,1914,1944,Paris,british,executed,Dachau,member,spionage,1,1,,,
 hk13,Hélène Kro ,1,1913,1942,Paris,polish,suicide,Paris,member,armed,1,1,,1,1
@@ -234,4 +235,5 @@ id19,Ignaz Duhl,1,1919,1943,,austrian,executed,marseille,member,,1,,,,2
 gg16,Gustav Gronich,1,1916,2003,,austrian,,vienna,member,,,,,,2
 li,Lotte Israel,1,,,,,,,member,,,,,,1
 ,,,,,,,,,,,,,,,
+
 gs04,George Starr,1,1904,1980,,british,,senlis,leader,,,,,,2
