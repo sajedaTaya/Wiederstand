@@ -93,9 +93,9 @@ ds13,ftpmoi,1,
 es24,ocmj,1,
 is20,ta,1,
 hv17,gga20,1,
-iw10,iw20,1,
+iw10,is20,1,
 iw10,ta,1,
-iw20,ta,1,
+is20,ta,1,
 dc09,pcf,1,
 mcvc12,pcf,1,
 mm21,rj,1,
@@ -169,5 +169,6 @@ gb99,cnr,1,
 ac13,com,1,
 pb03,com,1,
 pb03,mur,1,
+
 
 
