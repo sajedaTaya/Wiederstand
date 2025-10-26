@@ -114,7 +114,17 @@ rl06,,,
 ,,,
 ,,,
 ,,,
-,,,
+ig08,md80,2
+ig08,rpol,1
+at01,mt01,5
+at01,md09,2
+ra17,mnpg,1
+ra17,md14,5
+mf17,libnord,1
+mf17,rc,1
+mf17,gf01,5
+jc03,rc,1
+jc03,gf01,3
 ,,,
 ,,,
 ,,,
@@ -191,4 +201,5 @@ mbv21,gg16,2,
 li,rkö,1,
 mbv21,li,2,
 ,,,
+
 gs04,soe,1,
