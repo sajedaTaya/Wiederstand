@@ -48,7 +48,7 @@ hb21,Hélène Berr,1,1921,1945,Paris,french,executed,Bergen-Belsen,member,,1,1,1
 et09,Edith Thomas,1,1909,1970,,french,,Paris,member,press,,1,,2,1
 mt01,Magda Trocmé,1,1901,1996,Le Chambon-sur-Lignon,italian,natural,Poissy,member,refugee,,,,,
 mm21,Marie Médard,1,1921,2013,Paris,french,,,member,messenger,1,,,,
-ni14,Noor Inayat Khan,1,1914,1944,Paris,british,executed,Dachau,member,spionage,1,1,,,
+nik14,Noor Inayat Khan,1,1914,1944,Paris,british,executed,Dachau,member,spionage,1,1,,,
 hk13,Hélène Kro ,1,1913,1942,Paris,polish,suicide,Paris,member,armed,1,1,,1,1
 rl06,Renée Lévy,1,1906,1943,Paris,,executed,Cologne,member,press,1,,,,1
 ll16,Lise London,1,1916,2012,Paris,,natural,Paris,member,press,1,1,,,1
@@ -165,5 +165,6 @@ id19,Ignaz Duhl,1,1919,1943,,austrian,executed,marseille,member,,1,,,,2
 gg16,Gustav Gronich,1,1916,2003,,austrian,,vienna,member,,,,,,2
 li,Lotte Israel,1,,,,,,,member,,,,,,1
 gs04,George Starr,1,1904,1980,,british,,senlis,leader,,,,,,2
+
 
 
