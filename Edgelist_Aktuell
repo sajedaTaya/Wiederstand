@@ -70,9 +70,9 @@ cd13,gp,1,
 hsl09,pcf,1,
 mcl23,mcvc12,4,
 mcl23,fbs13,4,
-yb11,nik14,4,getötet
-yb11,md17,4,getötet
-yb11,ep17,4,getötet
+yb11,nik14,4,
+yb11,md17,4,
+yb11,ep17,4,
 yc09,yb11,2,
 yc09,nik14,2,
 cd13,mcvc12,4,
@@ -164,7 +164,7 @@ ea00,libsud,1,
 jc03,libsud,1,
 bv08,mlh,1,
 al03,mlh,1,
-bv08,al03,4,getötet
+bv08,al03,4,
 gb99,cnr,1,
 ac13,combat,1,
 pb03,combat,1,
