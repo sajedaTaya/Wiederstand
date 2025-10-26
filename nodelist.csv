@@ -1,7 +1,6 @@
 id,name,type,birth,death,region,nationality,death_cause,death_place,role,activity,arrested,kz,fled,rescued,gender
 la12,Lucie Aubrac,1,1912,2007,Lyon,french,natural,Paris,founder,refugee,2,2,,,1
 mmf09,Marie-Madeleine Fourcade,1,1909,1989,Paris,french,natural,Paris,leader,messenger,2,2,,,1
-gt07,Germaine Tillion,1,1907,2008,Paris,french,natural,Saintmande,member,refugee,1,1,,1,1
 gga20,Genevieve de Gaulle-Anthonoiz,1,1920,2002,Paris,french,natural,Paris,member,,1,1,,1,1
 dc09,Danielle Casanova,1,1909,1943,Paris,french,illness,Auschwitz,member,armed,1,2,,1,1
 mcvc12,Marie-Claude Vailliant-Coutrier,1,1912,1996,Paris,french,,Villejuif,member,armed,1,1,,1,1
@@ -35,8 +34,6 @@ sz22,Suzanne Citron,1,1922,2018,,,,,member,,,,,,1
 mdc24,Marie Dorothée de Croy,1,1924,2005,,,,,member,,,,,,1
 md91,Marie Déletraz,1,1891,,,,,,member,,,,,,1
 hsl09,Hélène Solomon-Langevin,1,1909,1995,,french,natural,Sens,,messenger,1,,,,1
-es24,Évelyne Sullerot,1,1924,2017,Nimes,french,illness,,member,,1,,,,
-is20,Irma Schwager,1,1920,2015,,austrian,natural,Vienna,member,,2,2,2,,1
 ds13,Dora Schaul,1,1913,1999,Lyon,german,natural,Berlin,member,spionage,1,1,1,2,1
 mls14,Marie-Louise Streisguth,1,1914,2005,,french,,,,,,1,1,2,1
 et96,Elsa Triolet,1,1896,1970,Nice,french,natural,Moskau,member,messenger,1,1,2,2,1
@@ -68,7 +65,6 @@ lr14,Lilian Rolfe,1,1914,1945,Paris,french,executed,Ravensbrück,member,spionage
 js24,Jacqueline Sabatier,1,1924,,Drome,british,,,,,,1,,,1
 es24,Evelyne Sullerot,1,1924,2017,Paris,french,natural,Paris,founder,press,,,,,1
 is20,Irma Schwager,1,1920,2015,Lyon,french,natural,Vienna,member,humanitarian,1,,,,1
-ss05,Suzanne Spaak,1,1905,1944,Paris,austrian,executed,Paris,member,humanitarian,1,,1,,1
 gt07,Germaine Tillion,1,1907,2008,Paris,belgian,natural,Saint-Mandé,member,spionage,1,,,,1
 rl00,Rega Levine,1,,,Paris,french,,,member,,,1,,,1
 md80,Marie Louise Dissard,1,1880,1957,Toulouse,french,natural,Toulouse,member,refugee,,,,1,1
@@ -103,7 +99,6 @@ humanite,L'Humanite,2,,,,,,,,,,,,,
 ojc,Organisation juive de combat,2,,,,,,,,,,,,,
 sra,Solidarite Ravaillac,2,,,,,,,,,,,,,
 cfr,Comites feminins de resistance,2,,,,,,,,,,,,,
-scoutisme,Groupe du scoutisme feminin,2,,,,,,,,,,,,,
 kpd,Kommunistische Partei Deutschlands,2,,,,,,,,,,,,,
 mz,Mouvement Zioniste,2,,,,,,,,,,,,,
 ftpmoi,Franc-Tireurs et Partisans - Main-d’Œuvre Immigrée ,2,,,,,,,,,,,,,
@@ -171,3 +166,4 @@ id19,Ignaz Duhl,1,1919,1943,,austrian,executed,marseille,member,,1,,,,2
 gg16,Gustav Gronich,1,1916,2003,,austrian,,vienna,member,,,,,,2
 li,Lotte Israel,1,,,,,,,member,,,,,,1
 gs04,George Starr,1,1904,1980,,british,,senlis,leader,,,,,,2
+
