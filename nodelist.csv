@@ -108,7 +108,7 @@ alliance,Alliance,2,,,,,,,,,,,,,
 ose,Oeuvres de Secours aux Enfants,2,,,,,,,,,,,,,
 fl,France libre,2,,,,,,,,,,,,,
 ffl,Forces Francaises Libres,2,,,,,,,,,,,,,
-mu,Mouvement uni de Resistance,2,,,,,,,,,,,,,
+mur,Mouvements unis de la Resistance,2,,,,,,,,,,,,,
 mlnnord,Mouvement de Liberation Nationale-Nord ,2,,,,,,,,,,,,,
 defense,Defense de la France,2,,,,,,,,,,,,,
 mn,Musee National des Arts et Traditions Populaires,2,,,,,,,,,,,,,
@@ -178,7 +178,13 @@ fdj97,Frédéric De Jongh,1,1897,1944,,belgian,executed,,member,refugee,1,,,,2
 jn19,Jean-François Nothomb,1,1919,2008,,belgian,natural,Rome,member,refugee,1,,,1,2
 ad07,Arnold Deppé,1,1907,,,belgian,,,founder,refugee,1,1,,1,2
 hb00,Henri Debliqui,1,,,,belgian,,,founder,refugee,1,,,,2
-
-
+cg90,Charles de Gaulle,1,1890,1970,London,french,illness,Grand Est,founder,political,,,,,2
+ra14,Raymond Aubrac,1,1914,2012,Lyon,french,,Paris,founder,refugee,1,,,1,2
+hf05,Henry Frenay,1,1905,1988,Lyon,french,,Porto‑Vecchio,founder,armed,1,,1,,2
+ha14,Henry Aubry,1,1914,1970,Marseille,french,,Asnières-sur-Sein,leader,armed,1,,,,2
+jm99,Jean Moulin,1,1899,1943,Paris,french,executed,Metz,leader,political,1,,,,2
+rh11,René Hardy,1,1911,1987,Lyon,french,,Melle,member,armed,1,,,,2
+ea00, Emmanuel d'Astier de La Vigerie,1900,1969,Lyon,french,natural,Paris,founder,political,,,,,2
+bv08,Boris Vildé,1908,1942,Paris,russianfrench,executed,Paris,founder,press,1,,,,2
 
 
