@@ -2,6 +2,7 @@ from,to,relation,
 ba93,com,1,
 la12,ba93,1,
 gga20,ba93,1,
+gga20,cg90,3,
 dc09,humanite,1,
 mcvc12,ba93,1,
 mcvc12,dc09,4,
@@ -309,6 +310,7 @@ pb03,cds,1,
 pb03,mlh,1,
 pb03,jm99,2,
 pb03,cg90,2,
+
 
 
 
