@@ -10,7 +10,7 @@ ss05,Suzanne Spaak,1,1905,1944,Paris,belgian,executed,Paris,leader,refugee,1,2,,
 fbs13,France Bloch-Serazin,1,1913,1943,Paris,french,executed,Hamburg,member,armed,1,2,,,1
 cc15,Claudine Chomat,1,1915,1945,Paris,french,,BoulogneBillancourt,leader,,2,2,,,1
 ad22,Andrée Dumon,1,1922,2025,Brussels,belgian,natural,Nivelles,member,refugee,1,1,,1,1
-md21,Micheline Dumon,1,1921,2017,Brussels,belgian,natural,SaintSiffret,member,refugee,1,,,,
+md21,Micheline Dumon,1,1921,2017,Brussels,belgian,natural,SaintSiffret,member,refugee,1,,,,1
 et76,Émilie Tillion,1,1876,1945,Talizat,french,executed,Ravensbrück,member,refugee,1,1,,,1
 ep17,Eliane Plewman,1,1917,1944,Lille,british,executed,Dachau,member,spionage,1,1,,,
 md17,Madeleine Damerment,1,1917,1944,Lille,french,executed,Dachau,member,spionage,1,1,,,
@@ -246,6 +246,7 @@ cp04,Christian Pineau,1,1904,1995,Lyon,french,natural,Paris,leader,press,1,1,1,2
 cd79,Charles Delestraint,1,1979,1945,Lyon,french,executed,Dachau,leader,armed,1,1,2,2,2
 ab08,André Boyer,1,1908,1945,Paris,french,executed,Nordhausen,member,press,1,1,1,2,2
 pf98,Pierre Fourcaud,1,1898,1998,Paris,french,natural,Paris,member,press,1,2,1,2,2
+
 
 
 
