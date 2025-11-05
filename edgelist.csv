@@ -112,7 +112,7 @@ rl06,gt07,2
 rl06,gga20,2
 ll16,pcf,1
 ll16,ftp,1
-ll16,al15,5
+ll16,al03,5
 sm01,pcf,1
 sm01,fbs13,4
 am22,pcf,1
@@ -129,7 +129,7 @@ lr14,nik14,2
 lr14,yb11,2
 js24,ftp,1
 es24,cv,1
-is20,ök,1
+is20,oek,1
 ss05,rot,1
 vs21,soe,1
 gb04,soe,1
@@ -151,12 +151,12 @@ cg90,ffl,1
 ra14,libsud,1
 ra14,la12,5
 ra14,la12,2
-hf05,combat,1
+hf05,com,1
 jm99,cnr,1
 jm99,ra14,4
-ha14,combat,1
+ha14,com,1
 jm99,ha14,4
-rh11,combat,1
+rh11,com,1
 jm99,rh11,4
 ea00,libsud,1
 jc03,libsud,1
@@ -315,8 +315,7 @@ cc15,pcf,1
 rkoe,rkd,1
 fl,ffl,1
 mur,ft,1
-mur,combat,1
+mur,com,1
 mur,libnord,1
 pcf,ftp,1
-
 ftp,ftpmoi,1
