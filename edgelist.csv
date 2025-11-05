@@ -117,7 +117,7 @@ sm01,pcf,1
 sm01,fbs13,4
 am22,pcf,1
 pn19,eif,1
-rn23,gjc,1
+rn23,gjm,1
 rn23,rmi,1
 sp17,com,1
 sp17,ml18,3
@@ -319,3 +319,4 @@ mur,com,1
 mur,libnord,1
 pcf,ftp,1
 ftp,ftpmoi,1
+
