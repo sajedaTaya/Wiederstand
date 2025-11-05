@@ -13,22 +13,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Edgelist**:
 from: Name Widerstandskämpferin
-to: Name Widerstandskämpferin
+to: Name Widerstandskämpferin/Organisation
 relation: Art der Zusammenarbeit:
-0 = keine Verbindung
-1 = Zusammenarbeit interstrukturell
-2 = Mitgliedschaft gleicher Struktur
+relation: 1 = Mitgliedschaft , 2 = gemeinsame Aktion, 3 = Verwandtschaft, 4 = gemeinsame
+Verhaftung, 5 = verheiratet, 6 = gemeinsam in Verhaftung
 
 **Nodelist**:
-id:
+id: kurzel + geburtsjahr
 name: Name Widerstandskämpferin
-death: Todesjahr
-region: Aktiv in ... Region:
-1 = Paris
-2 = Lyon
-3 = Beligen
-4 = Toulousse
-5 = Marsaille
-organization: Widerstandsstruktur
-role: Rolle in Struktur
-birth: Geburtsjahr
+type: 1 = Person, 2 = Organisation
+nationality: auf Englisch, klein, Beispiel: german
+death_place: auf Englisch, klein
+death_cause: natural, executed, accident, illness
+role: Role inn Struktur z.B founder, leader, member
+activity: messenger = Nachrichtendienst, refugee = Fluchthilfe, press = Untergrundpresse,
+armed = bewaffneter Widerstand, spionage = Spionage, sabotage = Sabotage
+arrested: 1 = ja, 2 = nein
+kz: 1 = ja, 2 = nein
+fled: 1 = ja, 2 = nein
+rescued: 1 = ja, 2 = nein
+
