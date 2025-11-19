@@ -1,0 +1,52 @@
+---
+title: "Codebuch_WiderstandskämpferInnen"
+author: "Lena Wilhelm"
+date: "2025-11-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Codebuch Stand: 2025-11, zuletzt aktualisiert: 2025-11
+
+## Edgelist
+
+**from** Definiert den Sender in Netzwerken. Entspricht ID in der Nodelist.
+
+**to** Definiert den Empfänger in Netzwerken. Entspricht ID in der Nodelist.
+
+**relation** Art der der Vernetzung: 1 = gemeinsame Organisation/in der Organisation 2 = gemeinsame Aktion 3 = verwandt 4 = zusammen verhaftet 5 = verheiratet 6 = zusammen inhaftiert
+
+## Nodelist
+
+**Id** eindeutiges Kennzeichen für Personen und Organisationen, für Personen werden ihre Initialien und Geburtsjahr benutzt, z.b. „la12“ für Lucie Aubrac. Für die Organisationen ausschließlich Initialien oder Abkürzungen z.b. „fl“ für France libre.
+
+**name** vollständiger Name der Person oder Organisation
+
+**type** zeigt ob es eine Person oder Organisition ist, 1 = Person und 2 = Organisation
+
+**birth** gibt das Geburtsjahr an
+
+**death** gibt das Todesjahr an
+
+**region** zeigt, in welcher Region die Widerstandskämper:innen vorallem aktiv waren
+
+**nationalty** gibt die Nationalität an
+
+**death_cause** gibt die Todesursache an: executed, natural, illness, accident, suicide
+
+**death_place** gibt den Todesort an
+
+**role** gibt die Position der Person in einer Organisiation an: leader, founder, member
+
+**activity** ist die Art des Widerstandes: messenger = Nachrichtendienst, refugee = Fluchthilfe, press = Untergrundpresse, armed = bewaffneter Widerstand, spionage = Spionage, sabotage = Sabotage
+
+**arrested** ob eine Person verhaftet wurde, 1 = ja, 2 = nein
+
+**kz** zeigt, ob eine Person im Konzentrationslager war oder nicht, 1 = ja, 2 = nein
+
+**fled** gibt an, ob die Person aus Gefängnis/Konzentrationslager geflohen ist, 1 = ja, 2 = nein
+
+**rescued** gibt an, ob die Person aus Gefängnis/Konzentrationslager gerettet wurde, 1 = ja, 2 = nein
