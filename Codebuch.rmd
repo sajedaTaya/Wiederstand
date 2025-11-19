@@ -1,13 +1,5 @@
----
-title: "Codebuch_WiderstandskämpferInnen"
-author: "Lena Wilhelm"
-date: "2025-11-19"
-output: html_document
----
+# Codebuch_WiderstandskämpferInnen # 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 Codebuch Stand: 2025-11, zuletzt aktualisiert: 2025-11
 
@@ -50,3 +42,5 @@ Codebuch Stand: 2025-11, zuletzt aktualisiert: 2025-11
 **fled** gibt an, ob die Person aus Gefängnis/Konzentrationslager geflohen ist, 1 = ja, 2 = nein
 
 **rescued** gibt an, ob die Person aus Gefängnis/Konzentrationslager gerettet wurde, 1 = ja, 2 = nein
+
+##
