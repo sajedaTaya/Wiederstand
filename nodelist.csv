@@ -1,4 +1,4 @@
-id,name,type,birth,death,region,nationality,death_cause,death_place,role,activity,arrested,kz,fled,rescued,gender
+id,name,type,birth,death,region,nationality,deathcause,deathplace,role,activity,arrested,kz,fled,rescued,gender
 la12,Lucie Aubrac,1,1912,2007,Lyon,french,natural,Paris,founder,refugee,2,2,NA,NA,1
 mmf09,Marie-Madeleine Fourcade,1,1909,1989,Paris,french,natural,Paris,leader,messenger,2,2,NA,NA,1
 gt07,Germaine Tillion,1,1907,2008,Paris,french,natural,Saintmande,member,refugee,1,1,NA,1,1
@@ -194,6 +194,7 @@ cp04,Christian Pineau,1,1904,1995,Lyon,french,natural,Paris,leader,press,1,1,1,2
 cd79,Charles Delestraint,1,1979,1945,Lyon,french,executed,Dachau,leader,armed,1,1,2,2,2
 ab08,André Boyer,1,1908,1945,Paris,french,executed,Nordhausen,member,press,1,1,1,2,2
 pf98,Pierre Fourcaud,1,1898,1998,Paris,french,natural,Paris,member,press,1,2,1,2,2
+
 
 
 
